@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19b71c84f92badd4db0e13390c08e1f5, type: 3}
+  m_Name: MakeupContentSO
+  m_EditorClassIdentifier: 
+  _eyeShadowItems:
+  - {fileID: 11400000, guid: a8fd38b5f8a4cda40929e9076f74e924, type: 2}
+  - {fileID: 11400000, guid: 43e94eff47f888a4cab83f24c02117cb, type: 2}
+  - {fileID: 11400000, guid: 7d3a2a58aa8936c4191c0cd32c494170, type: 2}
+  - {fileID: 11400000, guid: cd551cff77abef74b9e0776c75369687, type: 2}
+  - {fileID: 11400000, guid: d616f9db352c8b740844b2a53e1c3a6b, type: 2}
+  - {fileID: 11400000, guid: 07d0b0627298ab940a45c7ffcdab865c, type: 2}
+  - {fileID: 11400000, guid: 44cdd624a374ce642999fc49a89ee01b, type: 2}
+  - {fileID: 11400000, guid: da21eb39b29169f42b5499e4e100715c, type: 2}
+  - {fileID: 11400000, guid: c0bffc3fe5f45da41b0088542ac34260, type: 2}
+  _lipstickItems:
+  - {fileID: 11400000, guid: eab551df316efc44da0faecb35b52af5, type: 2}
+  - {fileID: 11400000, guid: 0022169fac9ff2b45b609ee9336c059a, type: 2}
+  - {fileID: 11400000, guid: f00e36f72f828c54d8672aa71baa446b, type: 2}
+  - {fileID: 11400000, guid: 3977bb26b630f9741ad81e3d21caef48, type: 2}
+  - {fileID: 11400000, guid: 634006a1e38106f46a5f6b20b11cbc99, type: 2}
+  - {fileID: 11400000, guid: 65abae888fd93524ab68e7698c9b8e76, type: 2}
+  _blushItems:
+  - {fileID: 11400000, guid: ad2dbe50f5855494eab34296830d2ed2, type: 2}
+  - {fileID: 11400000, guid: 2143be8b3b8504a47964fb6a3e4472f2, type: 2}
+  - {fileID: 11400000, guid: a28c2f87d7d100a4481d70919fc3a89b, type: 2}
+  - {fileID: 11400000, guid: 2a8219ec257bdde41a775d0b1699262e, type: 2}
+  - {fileID: 11400000, guid: f3307f7c231886c42bde4ea970b8e856, type: 2}
+  - {fileID: 11400000, guid: 9b4d0b6ce03c7a147abe4d12673fa23b, type: 2}
+  - {fileID: 11400000, guid: 9a04c981fcc5c09438954af6ca715056, type: 2}
+  - {fileID: 11400000, guid: 96d527d6e6489cf49a1f2d6b49ea196b, type: 2}
+  - {fileID: 11400000, guid: 90be9427564312e42ae016533fae365c, type: 2}
